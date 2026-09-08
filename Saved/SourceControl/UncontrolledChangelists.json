@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/paigenanjo/Documents/Unreal Projects/GameStudio_Project1/Content/BP_Debug.uasset",
+				"/Users/paigenanjo/Documents/Unreal Projects/GameStudio_Project1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/DT/B3YSQZNKZKZ4SIR9B21JRT.uasset"
+			]
+		}
+	]
+}
